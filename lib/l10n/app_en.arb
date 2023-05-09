@@ -1,0 +1,10 @@
+{
+  "@@locale":"en",
+  "timer": "Timer",
+  "start": "START",
+  "reset": "RESET",
+  "next_alarm": "Next Alarm",
+  "edit_alarm": "Edit Alarm",
+  "add_alarm": "Add Alarm",
+  "min_sec": "Min:Sec"
+}

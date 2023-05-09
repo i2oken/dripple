@@ -1,0 +1,10 @@
+{
+  "@@locale": "ja",
+  "timer": "タイマー",
+  "start": "スタート",
+  "reset": "リセット",
+  "next_alarm": "次のアラーム",
+  "edit_alarm": "アラーム編集",
+  "add_alarm": "アラーム追加",
+  "min_sec": "分:秒"
+}
